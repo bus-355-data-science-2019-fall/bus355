@@ -1,0 +1,24 @@
+---
+title: "Intro to R - 1.4 Ordered Factors"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+
+```
+
+This exercise practices creating and comparing ordered factors
+
+Create a ordered factor for the grades:
+C, B, B, C, A, D, B, C, B, A, A, B
+
+```{r echo=FALSE}
+vector_of_student_grades <- c("C","B","B","C","A","D","B","C","B","A","A","B")
+summary(vector_of_student_grades)
+glimpse(vector_of_student_grades)
+
+```
+
+
