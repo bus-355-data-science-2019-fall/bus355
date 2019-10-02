@@ -18,3 +18,6 @@ knitr::opts_chunk$set(echo = TRUE)
 - Need to finalize data camp course schedule
   - goal was to finish analyst track by the end of the semester (h/t Syndey)
   
+  
+  - What about using Onetonline data to perform filter, mutate, arrange, summarize, group_by functions?
+  
