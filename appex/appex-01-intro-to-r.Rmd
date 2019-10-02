@@ -53,6 +53,12 @@ Using the gapminder data (already loaded), create a dataframe for just the Unite
 
 ### filter, mutate, arrange
 
+```{r}
+
+```
+
+
+### ggplot2 - scale_x_log(), facet_wrap, color, size
 
 
 
