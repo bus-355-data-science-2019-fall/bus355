@@ -1,0 +1,19 @@
+---
+title: "Data Camp - Intro to R - Practice Exercises"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+df <- data.frame(
+    id    = c(5, 6, 7, 8, 9), 
+    prod  = c("F", "H", "B", "S", "D"),
+    units = c(12, 19, 44, 26, 43)
+)
+df?
+
+```
+
