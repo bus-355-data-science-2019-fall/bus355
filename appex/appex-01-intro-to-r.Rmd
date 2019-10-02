@@ -7,6 +7,7 @@ runtime: shiny_prerendered
 ```{r setup, include=FALSE}
 library(learnr)
 library(tidyverse)
+library(gapminder)
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
@@ -31,6 +32,21 @@ Print out the summmary of the ordered factor vector. How many of each factor exi
 
 Compare the second student with the fifth student.  Which has the higher grade?
 ```{r ordered_grades_compare, exercise=TRUE}
+
+```
+
+### Data frames
+
+use Order to sort the vector from A's to C's
+```{r ordered_grades_sorted, exercise = TRUE}
+
+```
+
+
+## filtering
+
+Using the gapminder data (already loaded), create a dataframe for just the United States
+```{r filtering, exercise=TRUE}
 
 ```
 
