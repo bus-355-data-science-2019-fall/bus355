@@ -1,0 +1,20 @@
+---
+title: "BUS 355 Work Journal"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### .work_journal
+
+### 2019 10 02, Tues
+
+- still have to input passphrase when pushing or pulling to github???
+- started app ex for the Intro to R course
+  - app ex are in-class exercises
+- Still need to identify assessments
+- Need to finalize data camp course schedule
+  - goal was to finish analyst track by the end of the semester (h/t Syndey)
+  
